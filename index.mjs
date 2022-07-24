@@ -1,5 +1,5 @@
-import { loadStflib } from "@reach-sh/stdlib"; // Standard ReachJS lib
-import * as backend from "./build.intex.main.mjs"; // Import the compiled backend
+import { loadStflib } from "@reach-sh/stdlib";
+import * as backend from "./build/index.main.mjs";
 
 // FRONTEND
 /**
